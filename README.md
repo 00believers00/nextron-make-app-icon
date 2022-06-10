@@ -1,5 +1,3 @@
-<p align="center"><img src="https://i.imgur.com/flcMvDC.png"></p>
-
 ## Make Logo App Icons
 
 make logo icons for ios, android, electronjs
