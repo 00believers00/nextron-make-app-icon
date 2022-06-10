@@ -1,0 +1,12 @@
+appId: com.ecushop.makeappicon
+productName: Make App Icon
+copyright: Copyright © 2022 ECUSHOP THAILAND
+directories:
+  output: dist
+  buildResources: resources
+files:
+  - from: .
+    filter:
+      - package.json
+      - app
+publish: null
